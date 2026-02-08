@@ -1,34 +1,35 @@
-dai.google.com
-ssl.p.jwpcdn.com
-js.driftt.com
-s.skimresources.com
-go.skimresources.com
-redirector.skimresources.com
-redirect.viglink.com
-cdn.viglink.com
-api.viglink.com
-consent.trustarc.com
-cdn.privacy-mgmt.com
-xp.apple.com
-ads.huawei.com
-logs.roku.com
-app-measurement.com
-pagead.l.doubleclick.net
-2giga.link
-greatis.com
-fingerprintjs.com
-bnc.lt
-click.googleanalytics.com
-ad.doubleclick.net
-pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
-api.vungle.com
-vungle.com
-indexexchange.com
-cdn.indexexchange.com
-outcome-ssp.supersonicads.com
-init.supersonicads.com
-live.chartboost.com
+0.0.0.0 dai.google.com
+0.0.0.0 ssl.p.jwpcdn.com
+0.0.0.0 js.driftt.com
+0.0.0.0 s.skimresources.com
+0.0.0.0 go.skimresources.com
+0.0.0.0 redirector.skimresources.com
+0.0.0.0 redirect.viglink.com
+0.0.0.0 cdn.viglink.com
+0.0.0.0 api.viglink.com
+0.0.0.0 consent.trustarc.com
+0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 xp.apple.com
+0.0.0.0 ads.huawei.com
+0.0.0.0 logs.roku.com
+0.0.0.0 app-measurement.com
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 2giga.link
+0.0.0.0 greatis.com
+0.0.0.0 fingerprintjs.com
+0.0.0.0 bnc.lt
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 api.vungle.com
+0.0.0.0 vungle.com
+0.0.0.0 indexexchange.com
+0.0.0.0 cdn.indexexchange.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 live.chartboost.com
+
 
